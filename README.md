@@ -1,4 +1,4 @@
-# 🌧️ Rainfall Trends in India (1901–2020)
+# 🌧️ Rainfall Trends in India (1901–2017)
 
 [![Excel](https://img.shields.io/badge/Tool-Excel-green?logo=microsoft-excel)](#)
 [![Data](https://img.shields.io/badge/Data-Open--Government--Data-blue)](https://data.gov.in/) 
@@ -40,7 +40,7 @@ Through an **interactive Excel dashboard**, the analysis investigates:
 
 ## **📊 Dashboard Preview**
 
-![Dashboard Preview](dashboard_preview.png)  
+![Dashboard Preview](Dashboard_preview.jpg)  
 
 The Excel dashboard includes:  
 - 🎛️ Interactive slicers by decade  
@@ -75,7 +75,7 @@ The Excel dashboard includes:
 | File | Description |
 |------|-------------|
 | `Rainfall_Dashboard.xlsx` | Main Excel file with dashboard, data, and seasonal analysis |
-| `dashboard_preview.png` | Screenshot of the final dashboard |
+| `Dashboard_preview.jpg` | Screenshot of the final dashboard |
 | `README.md` | Project documentation |
 
 ---
@@ -84,4 +84,4 @@ The Excel dashboard includes:
 
 **Atul Singh Gusain**  
 📧 gatul1312@gmail.com  
-🔗 [LinkedIn](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/atul-gusain-756160215/)
